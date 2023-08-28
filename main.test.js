@@ -4,9 +4,34 @@ Your code goes below.
 
 */
 
+let x = 3;
+let y = 10;
+let z = 5;
+let name = 'Sarah';
+let greeting = 'HEY';
+
+function multiply(num){
+  x = x * num 
+}
+
+function modYBy(num){
+  y = y % num 
+}
+
+function opposite(par){
+  z = par * -1
+}
 
 
+function makeFullName(par){
+  name = name + ' ' + par
+  
+  
+}
 
+function yellAt(par){
+  greeting = greeting + ', ' + par + '!'
+}
 
 
 /*********************************************************************************************************************
