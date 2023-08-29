@@ -11,26 +11,26 @@ let name = 'Sarah';
 let greeting = 'HEY';
 
 function multiply(num){
-  x = x * num 
+  x = x * num; 
 }
 
 function modYBy(num){
-  y = y % num 
+  y = y % num; 
 }
 
 function opposite(par){
-  z = par * -1
+  z = par * -1;
 }
 
 
 function makeFullName(par){
-  name = name + ' ' + par
+  name = name + ' ' + par;
   
   
 }
 
 function yellAt(par){
-  greeting = greeting + ', ' + par + '!'
+  greeting = greeting + ', ' + par + '!';
 }
 
 
